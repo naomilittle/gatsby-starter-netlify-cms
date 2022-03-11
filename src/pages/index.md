@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Blockchain Magic
-image: /img/home-jumbotron.jpg
+image: /img/content_design_feature_image.jpg
 heading: Blockchain Magic
 subheading: Creating NFTs on the blockchain
 mainpitch:
