@@ -1,21 +1,16 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Blockchain Magic
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Blockchain Magic
+subheading: Creating NFTs on the blockchain
 mainpitch:
-  title: Why Kaldi
+  title: Web3
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Web3 is the future of the web. It can be confusing to the Web2 mind. Let's
+    deep dive into how you can move to Web3.
+description: It's all about the contracts. Creating Web3 solutions, is a little
+  more involved than a regular CMS website.
 intro:
   blurbs:
     - image: /img/coffee.png
